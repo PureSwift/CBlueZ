@@ -1,4 +1,4 @@
-module CBluez [system] {
+module CBlueZ [system] {
     header "/usr/include/bluetooth/bluetooth.h"
     header "/usr/include/bluetooth/a2mp.h"
     header "/usr/include/bluetooth/bnep.h"
